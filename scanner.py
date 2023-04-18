@@ -26,4 +26,3 @@ for host in hosts:
         else:
             print (f"El puerto {port} está cerrado en el host {host}")
         sock.close()
-
